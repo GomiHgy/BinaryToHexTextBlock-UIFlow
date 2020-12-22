@@ -7,3 +7,12 @@ byteListにByte型のリスト、textVariableに処理結果を格納するテ�
 
 ![image](screenshot.png)
 
+## 例
+M5Stack Core2向きに作成しました。
+
+### example.m5f
+データ変換表示サンプルです。
+0-255以外の数値を入れた場合の処理もあえて入れています。
+
+### example_serial.m5f
+Groveで接続した相手から受信したデータを表示するサンプルです。
